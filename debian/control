@@ -1,0 +1,11 @@
+Source: uap-core
+Priority: extra
+Maintainer: Sergey kablov <s.kablov@sape.ru>
+Standards-Version: 3.8.4
+Section: libs
+Homepage: https://github.com/sape-ru/uap-core.git
+
+Package: uap-core
+Section: libs
+Architecture: any
+Description: ua parser resources
